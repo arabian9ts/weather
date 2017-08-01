@@ -2,4 +2,4 @@
 This is one line shell cmd which displays weather.
 
 ## preview
-![preview](preview/preview.png)
+<img src="preview/preview.png" alt="preview on zsh" title="preview">
